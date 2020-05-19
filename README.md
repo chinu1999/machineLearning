@@ -1,8 +1,8 @@
 # machineLearning
 
 
-Titanic Survival Predictor<br>
+<b>Titanic Survival Predictor</b><br>
 Using Random Forest Classifier
 
-Digit Recognizer using MNIST dataset<br>
+<b>Digit Recognizer using MNIST dataset</b><br>
 Using Convolutional Neural Network

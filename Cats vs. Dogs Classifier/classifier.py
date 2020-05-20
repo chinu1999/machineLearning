@@ -3,7 +3,6 @@ import pandas as pd
 from keras.preprocessing.image import ImageDataGenerator,load_img
 from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
 import random
 import os
 
@@ -95,30 +94,10 @@ model.compile(loss='categorical_crossentropy',optimizer='rmsprop',metrics=['accu
 
 epochs=10
 
-history = model.fit_generator(
+model.fit_generator(
     train_generator, 
     epochs=epochs,
     validation_data=validation_generator,
     validation_steps=total_validate//batch_size,
     steps_per_epoch=total_train//batch_size
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

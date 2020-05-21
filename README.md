@@ -10,3 +10,7 @@ Using Convolutional Neural Network
 <b>Cats vs. Dogs Classifier</b><br>
 Using Convolutional Neural Network<br>
 <a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download Dataset here</a>
+
+<b>Cats vs. Dogs Classifier Using Transfer Learning</b><br>
+By adding classifier on top of pretrained VGG16 model<br>
+<a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download Dataset here</a>

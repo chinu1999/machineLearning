@@ -17,4 +17,3 @@ By adding classifier on top of pretrained VGG16 model<br>
 
 <b>Image Classification on CIFAR-10 dataset</b><br>
 Using Convolutional Neural Network<br>
-<a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download Dataset here</a>

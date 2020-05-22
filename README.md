@@ -14,3 +14,7 @@ Using Convolutional Neural Network<br>
 <b>Cats vs. Dogs Classifier Using Transfer Learning</b><br>
 By adding classifier on top of pretrained VGG16 model<br>
 <a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download Dataset here</a>
+
+<b>Image Classification on CIFAR-10 dataset</b><br>
+Using Convolutional Neural Network<br>
+<a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download Dataset here</a>

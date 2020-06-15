@@ -17,3 +17,6 @@ By adding classifier on top of pretrained VGG16 model<br>
 
 <b>Image Classification on CIFAR-10 dataset</b><br>
 Using Convolutional Neural Network<br>
+
+<b>Real Time Face Recognition</b><br>
+Used opencv library to access webcam and face_recognition library which uses HOG algorithm to recognise the person.<br>

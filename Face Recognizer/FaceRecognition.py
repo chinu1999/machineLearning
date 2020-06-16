@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 15 12:28:44 2020
 
-@author: hp
+@author: Shivam Gupta
 """
 
 import face_recognition

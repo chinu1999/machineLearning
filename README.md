@@ -20,3 +20,6 @@ Using Convolutional Neural Network<br>
 
 <b>Real Time Face Recognition</b><br>
 Used opencv library to access webcam and face_recognition library which uses HOG algorithm to recognise the person.<br>
+
+<b>Hackerearth Server hacking detection challenge</b><br>
+This model predicts whether the server will be hacked or not with a test accuracy of 99.16%<br>
